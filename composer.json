@@ -1,0 +1,11 @@
+{
+    "name": "mafof/grok-alghoritms",
+    "autoload": {
+        "psr-4": {
+            "mafof\\GrokAlghoritms\\": "src/"
+        }
+    },
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
