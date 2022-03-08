@@ -99,8 +99,6 @@ hasDuplicates(nums);//true
 
 [Примеры других обозначений сложности алгоритмов](https://en.wikipedia.org/wiki/Big_O_notation)
 
-
-
 # Алгоритмы
 
 ## Бинарный поиск
